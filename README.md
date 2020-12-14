@@ -5,8 +5,7 @@
 - scikit-learn
 
 ### How to run?
-
-If the data is not in mongodb, you can insert it by uncommenting '# insert_data_into_mongo(db, 'users')' line in train.py. You can
+The mongodb connection string is passed in .env file.If the data is not in mongodb, you can insert it by uncommenting '# insert_data_into_mongo(db, 'users')' line in train.py. You can
 create a virtual environment, install the requierements.txt and execute the command:
 ```sh
 $ python train.py
