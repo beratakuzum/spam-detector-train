@@ -1,0 +1,12 @@
+certifi==2020.12.5
+joblib==0.17.0
+numpy==1.19.4
+pandas==1.1.5
+pymongo==3.11.2
+python-dateutil==2.8.1
+python-dotenv==0.15.0
+pytz==2020.4
+scikit-learn==0.23.2
+scipy==1.5.4
+six==1.15.0
+threadpoolctl==2.1.0
